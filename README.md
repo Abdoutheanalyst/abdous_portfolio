@@ -3,14 +3,14 @@
 ## 1. **Excel Dashboard: Coffee Shop Analysis**
 
 ### Overview:
-This project demonstrates the creation of an interactive Excel dashboard for a coffee shop. It utilizes advanced Excel functions such as **XLOOKUP** and **INDEX-MATCH** to provide a detailed analysis of sales data. Key features include visualizations of:
+This project demonstrates the creation of an interactive Excel dashboard for a coffee shop. It utilizes advanced Excel functions such as XLOOKUP and INDEX-MATCH to provide a detailed analysis of sales data. Key features include visualizations of:
 - Top 5 Customers
 - Sales by Country
 - Total Sales Over Time with a timeline slicer
 
 ### Key Functionality:
 - Filters: Roast type, size, and loyalty card status.
-- **Interactive Elements**: Allows detailed filtering to analyze sales trends, customer insights, and product performance.
+- Interactive Elements: Allows detailed filtering to analyze sales trends, customer insights, and product performance.
 
 ### Skills Used:
 - Advanced Excel formulas
@@ -38,7 +38,7 @@ This project explores student spending habits through Exploratory Data Analysis 
 ## 3. **Tableau: Big Mart Store Analysis**
 
 ### Overview:
-This project visualizes key metrics from the **Big Mart** grocery store dataset in **Tableau**. It explores various product and store attributes, providing actionable insights into performance and product trends.
+This project visualizes key metrics from the Big Mart grocery store dataset in Tableau. It explores various product and store attributes, providing actionable insights into performance and product trends.
 
 ### Key Metrics Analyzed:
 - Fat Content (low fat vs. regular)
